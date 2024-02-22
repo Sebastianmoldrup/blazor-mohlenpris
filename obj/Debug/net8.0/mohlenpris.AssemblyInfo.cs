@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mohlenpris")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63684cc0d31a40f24894cfd01ac8068d8eaba4c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("mohlenpris")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mohlenpris")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

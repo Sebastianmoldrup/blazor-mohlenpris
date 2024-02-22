@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "/Users/sebastian/github/blazor/mohlenpris/obj/Debug/net8.0/scopedcss/projectbundle/mohlenpris.bundle.scp.css",
+      "Id": "/Users/sebastian/github/blazor/blazor-mohlenpris/obj/Debug/net8.0/scopedcss/projectbundle/mohlenpris.bundle.scp.css",
       "PackagePath": "staticwebassets/mohlenpris.bundle.scp.css"
     },
     {
-      "Id": "/Users/sebastian/github/blazor/mohlenpris/wwwroot/app.css",
+      "Id": "/Users/sebastian/github/blazor/blazor-mohlenpris/wwwroot/app.css",
       "PackagePath": "staticwebassets/app.css"
     },
     {
-      "Id": "/Users/sebastian/github/blazor/mohlenpris/wwwroot/bootstrap/bootstrap.min.css",
+      "Id": "/Users/sebastian/github/blazor/blazor-mohlenpris/wwwroot/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "/Users/sebastian/github/blazor/mohlenpris/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Id": "/Users/sebastian/github/blazor/blazor-mohlenpris/wwwroot/bootstrap/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/sebastian/github/blazor/mohlenpris/wwwroot/favicon.png",
+      "Id": "/Users/sebastian/github/blazor/blazor-mohlenpris/wwwroot/favicon.png",
       "PackagePath": "staticwebassets/favicon.png"
     },
     {

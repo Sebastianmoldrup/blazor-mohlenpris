@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Fye9FZJQYMkjaUngau/ZBe7xEgnCalugBZTlOiRtG0s=",
+  "Hash": "KmEnYfOaNjgYlCtzFHwbPnCUJFTnReqnRnnzBpkhgPk=",
   "Source": "mohlenpris",
   "BasePath": "_content/mohlenpris",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "mohlenpris/wwwroot",
       "Source": "mohlenpris",
-      "ContentRoot": "/Users/sebastian/github/blazor/mohlenpris/wwwroot/",
+      "ContentRoot": "/Users/sebastian/github/blazor/blazor-mohlenpris/wwwroot/",
       "BasePath": "_content/mohlenpris",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/sebastian/github/blazor/mohlenpris/obj/Debug/net8.0/scopedcss/bundle/mohlenpris.styles.css",
+      "Identity": "/Users/sebastian/github/blazor/blazor-mohlenpris/obj/Debug/net8.0/scopedcss/bundle/mohlenpris.styles.css",
       "SourceId": "mohlenpris",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/sebastian/github/blazor/mohlenpris/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/sebastian/github/blazor/blazor-mohlenpris/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/mohlenpris",
       "RelativePath": "mohlenpris.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/sebastian/github/blazor/mohlenpris/obj/Debug/net8.0/scopedcss/bundle/mohlenpris.styles.css"
+      "OriginalItemSpec": "/Users/sebastian/github/blazor/blazor-mohlenpris/obj/Debug/net8.0/scopedcss/bundle/mohlenpris.styles.css"
     },
     {
-      "Identity": "/Users/sebastian/github/blazor/mohlenpris/obj/Debug/net8.0/scopedcss/projectbundle/mohlenpris.bundle.scp.css",
+      "Identity": "/Users/sebastian/github/blazor/blazor-mohlenpris/obj/Debug/net8.0/scopedcss/projectbundle/mohlenpris.bundle.scp.css",
       "SourceId": "mohlenpris",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/sebastian/github/blazor/mohlenpris/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/sebastian/github/blazor/blazor-mohlenpris/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/mohlenpris",
       "RelativePath": "mohlenpris.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/sebastian/github/blazor/mohlenpris/obj/Debug/net8.0/scopedcss/projectbundle/mohlenpris.bundle.scp.css"
+      "OriginalItemSpec": "/Users/sebastian/github/blazor/blazor-mohlenpris/obj/Debug/net8.0/scopedcss/projectbundle/mohlenpris.bundle.scp.css"
     },
     {
-      "Identity": "/Users/sebastian/github/blazor/mohlenpris/wwwroot/app.css",
+      "Identity": "/Users/sebastian/github/blazor/blazor-mohlenpris/wwwroot/app.css",
       "SourceId": "mohlenpris",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/sebastian/github/blazor/mohlenpris/wwwroot/",
+      "ContentRoot": "/Users/sebastian/github/blazor/blazor-mohlenpris/wwwroot/",
       "BasePath": "_content/mohlenpris",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/app.css"
     },
     {
-      "Identity": "/Users/sebastian/github/blazor/mohlenpris/wwwroot/bootstrap/bootstrap.min.css",
+      "Identity": "/Users/sebastian/github/blazor/blazor-mohlenpris/wwwroot/bootstrap/bootstrap.min.css",
       "SourceId": "mohlenpris",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/sebastian/github/blazor/mohlenpris/wwwroot/",
+      "ContentRoot": "/Users/sebastian/github/blazor/blazor-mohlenpris/wwwroot/",
       "BasePath": "_content/mohlenpris",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/sebastian/github/blazor/mohlenpris/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Identity": "/Users/sebastian/github/blazor/blazor-mohlenpris/wwwroot/bootstrap/bootstrap.min.css.map",
       "SourceId": "mohlenpris",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/sebastian/github/blazor/mohlenpris/wwwroot/",
+      "ContentRoot": "/Users/sebastian/github/blazor/blazor-mohlenpris/wwwroot/",
       "BasePath": "_content/mohlenpris",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/sebastian/github/blazor/mohlenpris/wwwroot/favicon.png",
+      "Identity": "/Users/sebastian/github/blazor/blazor-mohlenpris/wwwroot/favicon.png",
       "SourceId": "mohlenpris",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/sebastian/github/blazor/mohlenpris/wwwroot/",
+      "ContentRoot": "/Users/sebastian/github/blazor/blazor-mohlenpris/wwwroot/",
       "BasePath": "_content/mohlenpris",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

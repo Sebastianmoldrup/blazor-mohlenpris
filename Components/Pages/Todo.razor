@@ -7,3 +7,37 @@
 
 <p>This component demonstrates showing data.</p>
 
+<input @bind="newTodo" @onkeyup="CheckForEnter" />
+
+<button @onclick="AddTodo">Add Todo</button>
+
+<div>
+    <h2>Todos</h2>
+    <ul>
+        @foreach (string todo in todos) {
+            <li>@todo</li>
+        }
+    </ul>
+</div>
+
+@code {
+    string[] todos = [];
+    string newTodo = "";
+
+    void CheckForEnter(KeyboardEventArgs e)
+    {
+        if (e.Key == "Enter")
+        {
+            AddTodo();
+        }
+    }
+
+    void AddTodo()
+    {
+        if (!string.IsNullOrWhiteSpace(newTodo))
+        {
+            todos = todos.Concat(new[] { newTodo }).ToArray();
+            newTodo = "";
+        }
+    }
+}

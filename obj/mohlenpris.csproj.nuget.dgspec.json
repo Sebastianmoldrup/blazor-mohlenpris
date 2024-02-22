@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sebastian/github/blazor/mohlenpris/mohlenpris.csproj": {}
+    "/Users/sebastian/github/blazor/blazor-mohlenpris/mohlenpris.csproj": {}
   },
   "projects": {
-    "/Users/sebastian/github/blazor/mohlenpris/mohlenpris.csproj": {
+    "/Users/sebastian/github/blazor/blazor-mohlenpris/mohlenpris.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sebastian/github/blazor/mohlenpris/mohlenpris.csproj",
+        "projectUniqueName": "/Users/sebastian/github/blazor/blazor-mohlenpris/mohlenpris.csproj",
         "projectName": "mohlenpris",
-        "projectPath": "/Users/sebastian/github/blazor/mohlenpris/mohlenpris.csproj",
+        "projectPath": "/Users/sebastian/github/blazor/blazor-mohlenpris/mohlenpris.csproj",
         "packagesPath": "/Users/sebastian/.nuget/packages/",
-        "outputPath": "/Users/sebastian/github/blazor/mohlenpris/obj/",
+        "outputPath": "/Users/sebastian/github/blazor/blazor-mohlenpris/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sebastian/.nuget/NuGet/NuGet.Config"

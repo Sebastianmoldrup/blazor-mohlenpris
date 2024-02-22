@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2zLEM08jrdmcDKx+Z7azvaF2OQCkPM8vmCS+vf/zpQqglUeGxQ9o69bH4h0EXvM28M/tjJoviqImtDqQnurkjA==",
+  "dgSpecHash": "8fQSzcRt/VDUo0wk41D8xYVqYUApGmLKQx4R2gQqbT783XD1P7cH3/js1a3BANOXWRVSjEKkWqRi+kzCTG36bg==",
   "success": true,
-  "projectFilePath": "/Users/sebastian/github/blazor/mohlenpris/mohlenpris.csproj",
+  "projectFilePath": "/Users/sebastian/github/blazor/blazor-mohlenpris/mohlenpris.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
